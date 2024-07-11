@@ -3,6 +3,9 @@
 ## Description
 A simple to use e-commerce backend that utilizes Node.js to help with creating tables.
 
+## Credits
+Some of the code I used is from another project. I used this repo as an example: https://github.com/elizabetholsavsky/e-commerce-back-end. I also used the mini project found in the UTSA gitlab Module 13 Mini-Project: Travel Planner to help as well.
+
 ## User Story
 AS A manager at an internet retail company<br />
 I WANT a back end for my e-commerce website that uses the latest technologies<br />
